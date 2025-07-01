@@ -1,1 +1,1 @@
-New branch file to show up in new branch
+New branch file to show up in master and new branch
